@@ -2,7 +2,11 @@
 
 Basic website built by using basic Html,css for a beginner.
 
-#Navigate between Pages
+#Home Page with sime text.
 
-#Basic Contact Form
+#About Page for Personal details.
+
+#Navigate between Pages.
+
+#Basic Contact Form.
 
